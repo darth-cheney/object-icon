@@ -4,7 +4,9 @@
 	"category" : "Object-Icons",
 	"classinstvars" : [ ],
 	"pools" : [ ],
-	"classvars" : [ ],
+	"classvars" : [
+		"FormCache"
+	],
 	"instvars" : [ ],
 	"name" : "HaikuIconPack",
 	"type" : "normal"

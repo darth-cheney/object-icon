@@ -1,3 +1,3 @@
 as yet unclassified
 getImageFor: aString inSize: anInteger
-	^ (self getFormFor: aString inSize: anInteger) asMorph
+	^ (self getFormFromCache: aString inSize: anInteger) asMorph
