@@ -1,0 +1,3 @@
+as yet unclassified
+DeskbarWindowVisible16
+	^ 'iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAQElEQVR4XmOoqKj4X0EAM+ADIAX//6XixEAlRBiwTwknJugikMCJEyeIxhgughlADBj5Bgx/A8hOSFABUvEgAgB3ziAA2UycPAAAAABJRU5ErkJggg=='

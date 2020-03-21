@@ -1,0 +1,3 @@
+as yet unclassified
+AppLibreOffice16
+	^ 'iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABcklEQVR4XmOgJZAnW6eoqGiWkZHRfyBzGRALkKq5xs3N7b+FhcV/GRkZkCEgnA3EbMTo1wPifiDuAOJ6IC4H4kogTgNiLyC2AGJmbBqZLCxsu5eu3P5//aYD/zfvOPp/+55T//ccPPf/wNHL/4+cvP7/xLk7/4+euv6/tXPSf6Ark4F6uGCaOXz8QndcuPbs/4t3/xH4/f//L5HxBwS+eufl//ziKpDXZBm8fIIe37r/Hq8GEH4Fwh8h+Myle//V1bUPAw3QBbnAvqGl9/+dxx9xakDGN++/+e/k4nEdqG8yELPDvMHl4OByec+hs1g1wfDD59/+xyakvweqzwViVmyBmdTePfn//aefwRpALgGFx9M3//8/ePbnf0l5K8jfZbg0w4Cik4vXzR17z/+/9xTo5Af//1+6+f9/Y+ui/9DoZSUmPXCAUmFR6eT/2/Z8+N8zYQ9I8yqoONGACYhD1NUtzgLT53ZwlJEJ1IHYnGZZFgBCSigPXEWpDgAAAABJRU5ErkJggg=='

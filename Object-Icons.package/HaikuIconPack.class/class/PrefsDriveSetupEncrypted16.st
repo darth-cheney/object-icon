@@ -1,0 +1,3 @@
+as yet unclassified
+PrefsDriveSetupEncrypted16
+	^ 'iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA+0lEQVR4XmOgFQjw8fH5n5eX9x9Eg/ikaHarra39//z5czA+e/bs//LycpAhbkTpdnJyevzq1av/c+bMAWnqX7hw4f89e/b8B4kTZQDI2V+/fgVpngjii4qKTrx169b/7Ozs/0QZUFpa+v/t27cgxQ1QoYaHDx+Cw4MoA4qKiv5/+PABxYCrV68SZcAcID6gra39Pzw8HKQYhA+AaBcXl/8gcSh/DlbdDVkM/z8cZ/j/5qb6/xevnP6/vSLz/9MJhv8/zzP8/3MJKHcMghsyGf6PfANoZYCLBcMbkCF1JaL/a2qV/tcVMPxvBPJb8hj+t+VDNIIwSB1Vsy0Ax/QeAgOcBPQAAAAASUVORK5CYII='

@@ -1,0 +1,3 @@
+as yet unclassified
+MiscBox16
+	^ 'iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABIUlEQVR4XmMY+YC2gIlcjawyMjKZc2a1/58yoei/k4P2bKCYFxDzEKM5eNLE3v8vn136///Xhf//v2/9//fzvP+Prjf+7ysw/U9Q99oZCf9/vzr4/9+P6////zj4//+3lf//vZnw/9d2n//bShgIG7B9vvr/nxf0/n8/4fD/55XS/79v1f//udzo/8/5DP+3lYkSNmDHEr3/v29aQAw5qv7/+2rR/z/nMfz/tUj0//ZqGZABrHgN2Am07e8DB7ghPzbJ/P+1UPT/7+VK/xfkgQ3IBWJtnAZM79L+//2+E8KQnUr/fy2V+b+9VgmkeQYQRwMxGz5HSHk4ic4HueTLLdv/vw5o/99eIwPTnADEnMSmBbBBUyrgmlOJTQfogI2QAgBZbaHrZ8B9uwAAAABJRU5ErkJggg=='
