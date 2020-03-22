@@ -1,14 +1,16 @@
 initialization
 initialize
 	super initialize.
-	wrappedObject := self.
-	self image: self defaultImage.
+	customActions := Dictionary new.
+	image := self defaultImage.
+	imageMorph := self image asMorph.
 	labelMorph := StringMorph new.
-	self label: (String streamContents: [:s |  self printOn: s]).
+	wrappedObject := self.
+	labelMorph contents: (String streamContents: [ :s | wrappedObject printOn: s]).
 	self
 		color: Color transparent;
 		addMorph: labelMorph;
-		addMorph: image;
+		addMorph: imageMorph;
 		hResizing: #shrinkWrap;
 		vResizing: #shrinkWrap;
 		layoutPolicy: TableLayout new.

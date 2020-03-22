@@ -1,3 +1,3 @@
 event handling
 doubleClick: evt
-	self action
+	self doubleClickAction

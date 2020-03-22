@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ObjectIcon",
+	"category" : "Object-Icons",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CollectionIcon",
+	"type" : "normal"
+}
