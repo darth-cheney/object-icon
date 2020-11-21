@@ -1,14 +1,13 @@
 {
-	"category" : "Object-Icons",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		"FormCache" ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "HaikuIconPack",
-	"pools" : [
-		 ],
 	"super" : "Object",
-	"type" : "normal" }
+	"category" : "Object-Icons",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"FormCache"
+	],
+	"instvars" : [ ],
+	"name" : "HaikuIconPack",
+	"type" : "normal"
+}

@@ -5,7 +5,9 @@ initialize
 	image := self defaultImage.
 	imageMorph := self image asMorph.
 	labelMorph := StringMorph new.
-	labelMorph color: Color white.
+	labelMorph 
+		color: Color white;
+		backgroundColor: (Color gray alpha: 0.6).
 	wrappedObject := self.
 	labelMorph contents: (String streamContents: [ :s | wrappedObject printOn: s]).
 	self

@@ -1,14 +1,11 @@
 {
-	"category" : "Object-Icons",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "CollectionIcon",
-	"pools" : [
-		 ],
 	"super" : "ObjectIcon",
-	"type" : "normal" }
+	"category" : "Object-Icons",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CollectionIcon",
+	"type" : "normal"
+}
