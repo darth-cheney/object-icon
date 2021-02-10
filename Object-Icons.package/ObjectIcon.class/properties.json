@@ -1,10 +1,10 @@
 {
-	"commentStamp" : "",
-	"super" : "Morph",
 	"category" : "Object-Icons",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
 	"instvars" : [
 		"image",
 		"imageMorph",
@@ -12,8 +12,9 @@
 		"label",
 		"wrappedObject",
 		"customActions",
-		"labelMorph"
-	],
+		"labelMorph" ],
 	"name" : "ObjectIcon",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }
