@@ -1,11 +1,11 @@
 {
 	"class" : {
-		"defaultEncoded" : " 2/10/2021 17:51:11" },
+		"defaultEncoded" : "2/10/2021 17:51:11" },
 	"instance" : {
-		"acceptDroppingMorph:event:" : " 2/10/2021 17:51:11",
-		"addDroppedIcon:" : " 2/10/2021 17:51:11",
-		"formatLabel:" : " 2/10/2021 17:51:11",
-		"initialize" : " 2/10/2021 17:51:11",
-		"label:" : " 2/10/2021 17:51:11",
-		"wantsDroppedMorph:event:" : " 2/10/2021 17:51:11",
-		"wrap:" : " 2/10/2021 17:51:11" } }
+		"acceptDroppingMorph:event:" : "2/10/2021 17:51:11",
+		"addDroppedIcon:" : "2/10/2021 17:51:11",
+		"formatLabel:" : "2/10/2021 17:51:11",
+		"initialize" : "2/10/2021 17:51:11",
+		"label:" : "2/10/2021 17:51:11",
+		"wantsDroppedMorph:event:" : "2/10/2021 17:51:11",
+		"wrap:" : "2/10/2021 17:51:11" } }
